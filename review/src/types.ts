@@ -117,7 +117,7 @@ if (typeof userInput === "string") {
   userName = userInput;
 }
 
-// never
+// never (never returns anything)
 function generateError(message: string, code: number): never {
   throw {
     message: message,
