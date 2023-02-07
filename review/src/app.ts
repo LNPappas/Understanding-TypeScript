@@ -4,3 +4,5 @@
 // watch mode so we don't have to compile tsc app.ts every time
 // tsc --init
 // tsc app.ts -w
+
+// interfaces describe the structure of an object
