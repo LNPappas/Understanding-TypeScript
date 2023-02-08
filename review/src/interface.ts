@@ -1,3 +1,4 @@
+// interfaces describe the structure of an object/function
 interface AddFn {
   (a: number, b: number): void;
 }
